@@ -15,3 +15,4 @@ gulp.task('scripts', function () {
 	.pipe(uglify())
 	.pipe(gulp.dest('dist'));
 });
+/* My changes */
